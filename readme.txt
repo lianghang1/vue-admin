@@ -1,1 +1,1 @@
-this is nose project
+this is nose project readme
